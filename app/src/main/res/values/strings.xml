@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestMapBox</string>
+    <string name="nameoftheplace">Location</string>
+    <string name="desc">Description</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="button_name">List of Pin data from API</string>
+    <string name="zoom_map_in_and_out_instruction">Zoom in and out or Click list of pin data to see list of users info</string>
+    <string name="access_token">pk.eyJ1IjoibGFrc2htaTI1Mzg1IiwiYSI6ImNqd2Njc2ppazB1N3MzemtkeXptdnpheW8ifQ.XeJZ4-I0W3lc47DB1v5M1A</string>
+</resources>

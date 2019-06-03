@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99073199999998,
+          40.697817
+        ]
+      },
+      "properties": {
+                   "id":"1",
+"name":"Cadman Plaza Park",
+                   "description":"A nice park with an astro turf field in the area"
+}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98980899999998,
+          40.693003
+        ]
+      },
+      "properties": {
+"id":"2",
+"name":"",
+                   "description":"A nice park with an astro turf field in the area"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991488,
+          40.691832
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98747200000003,
+          40.691694
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984563,
+          40.690937
+        ]
+      },
+      "properties": {}
+    }
+  ]
+}
